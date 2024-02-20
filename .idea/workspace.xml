@@ -4,13 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db7ee449-6753-419d-8ac5-8224024c50f4" name="Changes" comment="" />
+    <list default="true" id="db7ee449-6753-419d-8ac5-8224024c50f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/DropdownPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/FramesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/HorizontalSliderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/playground/BasePlaygroundPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/playground/DynamicTablePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/resources/drivers/TestUpload.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/resources/drivers/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/resources/drivers/run.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/DropdownTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/FrameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/api/ApiUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/api/PetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/api/createUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/playgroundTests/DynamicTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/playgroundTests/HorizontalScrollerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/AddRemoveElementPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/AddRemoveElementPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/BasicAuthPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/BasicAuthPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/BelhardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/BelhardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/ChallengingDOMPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/ChallengingDOMPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/CheckboxesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/CheckboxesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/ContextPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/ContextPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/GooglePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/GooglePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pages/UploadFilePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/UploadFilePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/resourses/drivers/TestUpload.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/resources/drivers/allure.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/resourses/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/resources/drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/resourses/drivers/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/resources/drivers/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/resourses/drivers/run.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/test/AddDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/test/AddDeleteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/test/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/test/BelhardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/test/BelhardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/test/ChallengingDOMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/test/ChallengingDOMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/test/CheckboxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/test/CheckboxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/test/ContextTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/test/ContextTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/test/GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/test/GoogleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/test/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/test/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/test/TheInternetsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/test/TheInternetsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/test/UploadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/test/UploadTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2b0OUqRRlNiXDmKHBDtgSObmweJ" />
@@ -19,12 +73,129 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Selenide__part&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bachk\Documents\Java_Belhard\AutoTest\TestNG\src\main\java\org\example\resourses\drivers" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test-Driver=chrome" />
+      <command value="mvn  clean test -Driver=chrome" />
+      <command value="mvn allure:serve" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.createUserTest.createUserTest">
+    <configuration name="FrameTest.frameTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.test" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test.FrameTest" />
+      <option name="METHOD_NAME" value="frameTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleTest.googleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.test" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test.GoogleTest" />
+      <option name="METHOD_NAME" value="googleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HorizontalScrollerTest.scrollTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.test.playgroundTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.test.playgroundTests" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test.playgroundTests.HorizontalScrollerTest" />
+      <option name="METHOD_NAME" value="scrollTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetTest.apiPetTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.test.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.test.api" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test.api.PetTest" />
+      <option name="METHOD_NAME" value="apiPetTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="createUserTest.createUserTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGFlow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.test.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.test.api" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test.api.createUserTest" />
+      <option name="METHOD_NAME" value="createUserTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.createUserTest.createUserTest" />
+        <item itemvalue="TestNG.PetTest.apiPetTest" />
+        <item itemvalue="TestNG.GoogleTest.googleTest" />
+        <item itemvalue="TestNG.HorizontalScrollerTest.scrollTest" />
+        <item itemvalue="TestNG.FrameTest.frameTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +206,29 @@
       <updated>1705348552464</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/pages/UploadFilePage.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="String actualColor = element.getCssValue(&quot;color&quot;);" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestNG$DropdownTest_dropdownTest.ic" NAME="DropdownTest.dropdownTest Coverage Results" MODIFIED="1707054553842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TestNG$UploadTest_uploadTest.ic" NAME="UploadTest.uploadTest Coverage Results" MODIFIED="1706728941039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.test.*</FILTER>
+    </SUITE>
   </component>
 </project>
